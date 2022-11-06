@@ -1,0 +1,36 @@
+
+button {
+    border-radius: 10px;
+    border-style: none;
+    background: none;
+    width: 40px;
+    height: 25px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button:hover {
+    background: #f8733f85;
+}
+
+.toDoBox{
+    border-radius: 20px;
+    border-style: none;
+    background: none;
+    width: 300px;
+    margin-left:35%;
+    height: 25px;
+    cursor: pointer;
+    margin-top: 10px;
+    padding-left: 3px;
+    color: rgb(153, 114, 78);
+}
+
+#todo-list{
+    width: 300px;
+    margin-left:30%;
+    height: 25px;
+    margin-top: 10px;
+    padding-left: 3px;
+    color :rgb(211, 214, 207)
+}

@@ -1,0 +1,46 @@
+#greeting {
+    width: 100%;
+  background-color: transparent;
+  border: none;
+  font-size: 30px;
+  font-weight: 900;
+  padding: 20px;
+  padding-top:10px;
+  margin-left: 70%;
+  margin-block-start:0px;
+  box-sizing: border-box;
+  box-shadow: transparent;
+  background: -webkit-linear-gradient(top, blaack);
+  /* -webkit-background-clip: text; */
+  -webkit-text-fill-color: rgb(153, 114, 78);
+  font-family: var(--login-font);
+}
+
+body {
+    background: #333333;
+}
+.text-line {
+    background-color: transparent;
+    color: rgb(153, 114, 78);
+    outline: none;
+    outline-style: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid rgb(153, 114, 78) 1px;
+    padding-bottom: 2PX;
+    width: 120px;
+    margin-left: 80%;
+    
+}
+.logInBox{
+    border-radius: 10px;
+    border-style: none;
+    background: none;
+    width: 40px;
+    height: 25px;
+    cursor: pointer;
+    margin-top: 10px;
+    padding-left: 0px;
+    color: rgb(153, 114, 78);
+}
